@@ -26,7 +26,7 @@ give a s = "PAYPALISHIRING" , numRows = 4 <br>
 written in a zigzag pattern is "PINALSIGYAHRPI" <br>
 
 P &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp;&nbsp; N &nbsp; <br>
-A &nbsp; L &nbsp; S &nbsp; I &nbsp; G <br>
+A &nbsp;&nbsp; L &nbsp; S &nbsp; I &nbsp; G <br>
 Y &nbsp; A &nbsp;&nbsp;&nbsp;&nbsp; H &nbsp; R <br>
 P &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I <br>
 可以發現 : <br>
