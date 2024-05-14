@@ -25,10 +25,9 @@ Y &nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp; R <br>
 give a s = "PAYPALISHIRING" , numRows = 4 <br>
 written in a zigzag pattern is "PINALSIGYAHRPI" <br>
 
-P &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I &nbsp;&nbsp;&nbsp;&nbsp; N &nbsp; <br>
-A &nbsp;&nbsp; L &nbsp; S &nbsp; I &nbsp; G <br>
-Y &nbsp; A &nbsp;&nbsp;&nbsp;&nbsp; H &nbsp; R <br>
-P &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I <br>
+<img width="103" alt="截圖 2024-05-14 下午8 47 11" src="https://github.com/Jeffma0103/Zigzag-Conversion/assets/92356670/ea601b48-6376-4c5b-a2ff-b2561efc19fc">
+
+
 可以發現 : <br>
 s &nbsp; 依照以下排序來進行改寫為 &nbsp; zigzag pattern <br>
 012321 | 012321 | 01 <br>
